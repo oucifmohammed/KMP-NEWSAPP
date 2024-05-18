@@ -1,0 +1,10 @@
+<resources>
+    <string name="first_onboarding_title">Currencies and Cryptocurrency News</string>
+    <string name="first_onboarding_desc">Get the latest news about currencies such as Bitcoin</string>
+
+    <string name="second_onboarding_title">Worldwide News</string>
+    <string name="second_onboarding_desc">Daily worldwide news about all countries</string>
+
+    <string name="third_onboarding_title">Different news categories</string>
+    <string name="third_onboarding_desc">Get news about different topics such as food</string>
+</resources>
